@@ -14,7 +14,7 @@ Using [slowscript](https://github.com/flrngel/slowscript)'s `queue`, `queue_excu
 
 We could lazyload javascript which is descripted as HTML-TAG in view-file !!
 
-### Summing-up core of Example (for who don't have enough time to read few lines of code)
+## Summing-up core of Example (for who don't have enough time to read few lines of code)
 
 /index.html
 
