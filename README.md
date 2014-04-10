@@ -10,7 +10,7 @@ click [here](http://flrngel.github.io/slowscript-angular-require-lazyload/) to s
 
 ## Concepts
 
-Using [slowscript](https://github.com/flrngel/slowscript)`s queue, queue_excute, execute functions, AngularJS`s rootScope Concept, Run function
+Using [slowscript](https://github.com/flrngel/slowscript)'s `queue`, `queue_excute`, `execute` functions, AngularJS's `$rootScope` Concept, Run function
 
 We could lazyload javascript which is descripted as HTML-TAG in view-file !!
 
