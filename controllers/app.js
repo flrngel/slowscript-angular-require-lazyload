@@ -12,7 +12,7 @@ define(["angular", "slowscript", "angular-ui-router"], function(angular,slowscri
 			url: "",
 			views: {
 				"contents": {
-					templateUrl: "/views/index.html",
+					templateUrl: "/slowscript-angular-require-lazyload/views/index.html",
 					controller: "Index"
 				},
 			}
@@ -21,7 +21,7 @@ define(["angular", "slowscript", "angular-ui-router"], function(angular,slowscri
 			url: "/sexy",
 			views: {
 				"contents": {
-					templateUrl: "/views/test.html",
+					templateUrl: "/slowscript-angular-require-lazyload/views/test.html",
 					controller: "Sexy",
 					reloadOnSearch: true
 				}
