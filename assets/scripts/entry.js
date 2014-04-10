@@ -1,5 +1,5 @@
 requirejs.config({
-	baseUrl: "/controllers/",
+	baseUrl: "/slowscript-angular-require-lazyload/controllers/",
 	shim: {
 		"angular": {
 			deps: ["jquery"],
@@ -13,10 +13,10 @@ requirejs.config({
 		}
 	},
 	paths: {
-		"slowscript": "/assets/scripts/slowscript",
-		"jquery": "/assets/scripts/jquery-2.1.0.min",
-		"angular": "/assets/scripts/angular.min",
-		"angular-ui-router": "/assets/scripts/angular-ui-router.min"
+		"slowscript": "/slowscript-angular-require-lazyload/assets/scripts/slowscript",
+		"jquery": "/slowscript-angular-require-lazyload/assets/scripts/jquery-2.1.0.min",
+		"angular": "/slowscript-angular-require-lazyload/assets/scripts/angular.min",
+		"angular-ui-router": "/slowscript-angular-require-lazyload/assets/scripts/angular-ui-router.min"
 	}
 });
 
