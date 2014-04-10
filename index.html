@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" ng-conroller="index">
+	<head>
+		<meta charset="utf-8">
+		<title>Example</title>
+	</head>
+	<body ng-app>
+		<a ui-sref="sexy">CLICK ME</a>
+		<div ui-view="main-view">
+			<div ui-view="contents"></div>
+		</div>
+		<script src="/assets/scripts/require.min.js" data-main="/assets/scripts/entry.js"></script>
+	</body>
+</html>
