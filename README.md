@@ -1,6 +1,6 @@
 # slowscript-angular-require-lazyload
 
-simple example of javascript lazyload with using [slowscript](https://github.com/flrngel/slowscript) for who's using [AngularJS](http://angularjs.org/) and [RequireJS](http://requirejs.org)
+simple example of javascript lazyload with using [slowscript](https://github.com/flrngel/slowscript) for whom using [AngularJS](http://angularjs.org/) and [RequireJS](http://requirejs.org)
 
 I have not tested non-requirejs environment, but it might work.
 
